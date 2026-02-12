@@ -1,4 +1,5 @@
 ---
+published: false
 id: {number}
 state: draft  # draft | approved | deprecated
 created: {YYYY-MM-DD}

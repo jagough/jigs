@@ -1,0 +1,15 @@
+title: JIGs
+description: "Jonathan's Implementation Guidance — structured, opinionated documentation for HTTP API service design and development."
+url: https://jagough.github.io
+baseurl: /jigs
+
+theme: just-the-docs
+
+search_enabled: true
+
+exclude:
+  - README.md
+  - jigs/template.md
+  - Gemfile
+  - Gemfile.lock
+  - .claude/
